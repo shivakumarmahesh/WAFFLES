@@ -1,5 +1,5 @@
 # WAFFLES
-Backend of a website devoloped using AVLTree's for the CS126 coursework at University of Warwick
+Backend of a website devoloped using data structures built from scratch for the CS126 coursework at University of Warwick
 # CS126 WAFFLES Coursework Report [1942271]
 
 ## CustomerStore
